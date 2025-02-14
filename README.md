@@ -27,6 +27,10 @@ webpack module federation
 
 Backend
 
+ссылка на draw.io
+
+https://github.com/alexStarck/architecture-sprint-1/blob/sprint_1/backend/arch_task2.drawio
+
 Сделал из монолита :
 1) Сервис авторизации
 2) Сервис профиля пользователя
@@ -38,5 +42,4 @@ Backend
 8) Сервис Управления заказами
 9) Сервис Платежный
 10) Сервис поисковый
-
     
